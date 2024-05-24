@@ -1,1 +1,1 @@
-# Generative_AI_News_Research_Tool
+# Generative AI News Research Tool
