@@ -64,7 +64,7 @@ After launching the tool:
 4. **Ask Questions**: Input questions to receive targeted insights based on the processed articles.
 
 ## Contributing
-Contributions are welcome! Please read our contribution guidelines for more information on how to contribute to the project.
+Contributions are welcome! Please read the contribution guidelines for more information on how to contribute to the project.
 
 ## License
 This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
